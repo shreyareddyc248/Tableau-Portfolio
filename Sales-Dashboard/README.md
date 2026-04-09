@@ -9,3 +9,6 @@ This dashboard analyzes sales performance across regions and categories.
 - Interactive filters
 - Trend analysis
 - Color-coded profit visualization
+
+## 🔗 Live Dashboard
+[View Interactive Dashboard](https://public.tableau.com/views/Shreya_workbook1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
